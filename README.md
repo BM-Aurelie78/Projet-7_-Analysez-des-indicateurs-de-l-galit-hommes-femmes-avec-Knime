@@ -1,1 +1,1 @@
-# Projet-7_-Analysez-des-indicateurs-de-l-galit-hommes-femmes-avec-Knime
+# Projet-7_Analysez-des-indicateurs-de-l'egalite-hommes-femmes-avec-Knime
